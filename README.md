@@ -2,9 +2,7 @@
 
 ## 💻 Cloud & DevOps Engineer
 
-<div align="center">
-  <img src="This%20pin%20is%20all%20about%20coding.gif" alt="Coding GIF" width="100%" height="300px" />
-</div>
+
 
 I'm passionate about automation, cloud infrastructure, and seamless software delivery.  
 I specialize in DevOps tools like **Git, Docker, Terraform, Jenkins, Ansible**, and **Linux scripting**, with solid experience in **AWS Cloud**.  
