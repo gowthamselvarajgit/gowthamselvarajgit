@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="This%20pin%20is%20all%20about%20coding.gif" alt="Coding GIF" width="100%" />
+  <img src="This%20pin%20is%20all%20about%20coding.gif" alt="Coding GIF" width="100%" height="300px" />
 </div>
+
 
 # Hi there 👋, I'm Gowtham S
 
