@@ -1,22 +1,15 @@
-<div align="center">
-  <img src="This%20pin%20is%20all%20about%20coding.gif" alt="Coding GIF" width="100%" height="300px" />
-</div>
-
-
 # Hi there 👋, I'm Gowtham S
 
 ## 💻 Cloud & DevOps Engineer
 
-
+<div align="center">
+  <img src="This%20pin%20is%20all%20about%20coding.gif" alt="Coding GIF" width="100%" height="300px" />
+</div>
 
 I'm passionate about automation, cloud infrastructure, and seamless software delivery.  
 I specialize in DevOps tools like **Git, Docker, Terraform, Jenkins, Ansible**, and **Linux scripting**, with solid experience in **AWS Cloud**.  
 I also work on **Java, Spring Boot, React.js, and React Native** to build full-stack and mobile-ready solutions.
 
----
-
-
----
 
 ### 🚀 Skills
 
@@ -51,6 +44,10 @@ I also work on **Java, Spring Boot, React.js, and React Native** to build full-s
 
 🔗 [View Project](https://github.com/gowthamselvarajgit/Employers-Management-System)
 
+#### 🎉 Serverless Email Birthday Wishes – Project Highlights:
+- Automated Birthday Emails: Built a serverless application on AWS to send personalized birthday wishes via email using SES (Simple Email Service) and Lambda functions triggered daily by EventBridge.
+- Secure & Scalable Data Flow: Stored email templates securely in S3, maintained contact and birthday details in Amazon RDS, and leveraged IAM for secure access control and permissions.
+- Analytics & Monitoring: Integrated AWS Glue and Athena to query birthday email logs for insights and monitoring, ensuring reliability and performance across all events.
 ---
 
 ### 📧 Contact Me
