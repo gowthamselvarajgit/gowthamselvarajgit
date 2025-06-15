@@ -1,10 +1,12 @@
+<div align="center">
+  <img src="This%20pin%20is%20all%20about%20coding.gif" alt="Coding GIF" width="100%" />
+</div>
+
 # Hi there 👋, I'm Gowtham S
 
 ## 💻 Cloud & DevOps Engineer
 
-<p align="center">
-  <img src="This%20pin%20is%20all%20about%20coding.gif" alt="Coding GIF" width="600"/>
-</p>
+
 
 I'm passionate about automation, cloud infrastructure, and seamless software delivery.  
 I specialize in DevOps tools like **Git, Docker, Terraform, Jenkins, Ansible**, and **Linux scripting**, with solid experience in **AWS Cloud**.  
