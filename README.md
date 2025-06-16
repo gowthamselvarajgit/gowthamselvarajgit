@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gowtham S</h1>
 
-<h3 align="center">🚀 Cloud & DevOps Engineer | 💻 Full Stack Developer | 📱 React Native Enthusiast</h3>
+<h3 align="center">☁️ Cloud & DevOps Engineer | 🔧 Automation Specialist | 💻 Full Stack Enthusiast</h3>
 
 <p align="center">
-  🔧 Passionate about building robust, scalable cloud-native solutions.<br/>
-  ⚙️ Automating everything with Infrastructure as Code, CI/CD pipelines, and containers.<br/>
-  💡 Always learning, building, and sharing my journey through projects.
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZzdzZzbGwweTI3MWlhdXQxMXE3am5hN2h4YmN2bm91NWJoZW5ucyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZy/giphy.gif" width="300" />
 </p>
 
 ---
@@ -13,70 +11,80 @@
 ## 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>&nbsp;
-  <img src="https://joshmartin.ch/app/uploads/2024/04/terraform-icon-1803x2048-hodrzd3t.png" width="50" height="50" alt="Terraform"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="50" height="50" alt="Ansible"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" alt="Jenkins"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" height="50" alt="Grafana"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>&nbsp;
-  <img src="https://spring.io/img/projects/spring-boot.svg" width="50" height="50" alt="Spring Boot"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60"/> &nbsp;
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/> &nbsp;
+  <img src="https://media.giphy.com/media/Vo6FLy9EHO8t4/giphy.gif" width="60"/> &nbsp;
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60"/> &nbsp;
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/> &nbsp;
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60"/> &nbsp;
+  <img src="https://media.giphy.com/media/UQJlOI0Yuqb4c/giphy.gif" width="60"/> &nbsp;
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://spring.io/img/projects/spring-boot.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
 </p>
 
 ---
 
-## 🧠 Projects Showcase
+## 🚀 Projects
 
 ### 🧑‍💼 **Employers Management System**
-> 🚀 **Tech**: React.js, Tailwind CSS, Spring Boot, PostgreSQL  
-> 🧪 Tested with Postman | 🐳 Dockerized for deployment  
-🔗 [View Project](https://github.com/gowthamselvarajgit/Employers-Management-System)
+- React.js + Tailwind CSS frontend
+- Spring Boot backend
+- PostgreSQL + Postman for API testing
+- Dockerized deployment
+
+🔗 [🔗 View on GitHub](https://github.com/gowthamselvarajgit/Employers-Management-System)
 
 ---
 
 ### 🎂 **Serverless Email Birthday Wishes**
-> 🛠️ Built using AWS Lambda, EventBridge, SES, IAM, RDS  
-> 📁 Templates in S3 | 🔐 Secure access via IAM  
-> 📊 Monitored with Glue & Athena  
-🔗 [View Project](https://github.com/gowthamselvarajgit)
+- SES + Lambda + EventBridge automation
+- Secure data in S3 and RDS
+- IAM-based access control
+- Query logs using Glue + Athena
+
+🔗 [🔗 View on GitHub](https://github.com/gowthamselvarajgit)
 
 ---
 
-## 📈 GitHub Insights
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gowthamselvarajgit&show_icons=true&count_private=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamselvarajgit&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streaks & Trophies
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowthamselvarajgit&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gowthamselvarajgit&theme=onedark&row=1&no-frame=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gowthamselvarajgit&theme=onedark&row=1&margin-w=10&no-bg=true&no-frame=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthamselvarajgit&radius=16&theme=react-dark&area=true" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthamselvarajgit&theme=react-dark&radius=16&area=true" height="300" />
-</p>
-
----
-
-## 🌐 Let's Connect!
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gowtham4026/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -87,5 +95,5 @@
 ---
 
 <p align="center">
-  ✨ Made with passion by <strong>Gowtham S</strong> | 🛠️ Keep Automating, Keep Building 🚀
+  ✨ Built with ❤️ by <strong>Gowtham S</strong> — Automate | Code | Ship | Scale 🚀
 </p>
