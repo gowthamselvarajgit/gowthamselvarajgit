@@ -2,6 +2,7 @@
 
 <h3 align="center">☁️ Cloud & DevOps Engineer | 🔧 Automation Specialist | 💻 Full Stack Enthusiast</h3>
 
+<img src="https://readme-typing-svg.demolab.com/?lines=Cloud+%26+DevOps+Engineer;Automation+Specialist;AWS+Certified+Learner;Full+Stack+Developer;Always+learning+new+things&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=F76C6C" />
 ---
 
 ## 🔧 Tech Stack & Tools
