@@ -3,7 +3,7 @@
 <h3 align="center">☁️ Cloud & DevOps Engineer | 🔧 Automation Specialist | 💻 Full Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="DevOps banner" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 70%; object-fit: cover;" alt="DevOps banner" />
 </p>
 
 ---
