@@ -28,17 +28,14 @@
 > _“To automate, build, and innovate smart solutions through DevOps and Cloud technologies, simplifying complexity into elegant, scalable infrastructure.”_
 
 ---
-
 ## 💻 Technical Skills
 
-### 👨‍💻 Languages
-<p align="left">
+<p align="center">
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="24" title="Bash" />
-</p>
 
-### ⚙️ DevOps & Infrastructure as Code
-<p align="left">
+  <!-- DevOps / IaC -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" title="GitHub" />
@@ -47,23 +44,17 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="24" title="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="24" title="Kubernetes" />
-</p>
 
-### 📈 Monitoring & Observability
-<p align="left">
+  <!-- Monitoring -->
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="24" title="Prometheus" />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="24" title="Grafana" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Zabbix_logo.svg/1280px-Zabbix_logo.svg.png" height="24" title="Zabbix" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Nagios_logo.svg" height="24" title="Nagios" />
-</p>
 
-### ☁️ Cloud Technologies
-<p align="left">
+  <!-- Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="24" title="AWS" />
-</p>
 
-### 🌐 Web Technologies & Frameworks
-<p align="left">
+  <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" title="React.js" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="24" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" title="HTML" />
