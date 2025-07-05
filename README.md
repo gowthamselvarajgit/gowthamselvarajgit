@@ -1,7 +1,7 @@
-<!-- 🔥 Custom Header -->
+<!-- 👋 Friendly Header -->
 <h1 align="center">
-  <span style="color:#FEE75C; font-weight:900; font-size:40px;">
-    👋 HELLO, I'M <span style="color:#00FFFF;">GOWTHAM S</span>
+  <span style="font-weight:900; font-size:40px;">
+    👋 Hai, I'm <span style="color:#0ea5e9;">Gowtham S</span>
   </span>
 </h1>
 
@@ -21,9 +21,10 @@
 
 - 👨‍💻 Passionate **Cloud & DevOps Engineer**  
 - ☁️ Skilled in **AWS, Docker, Terraform, CI/CD, Jenkins, Ansible**  
-- 📱 Experienced in **Full Stack Development using React Native & Golang**  
+- 📱 Experienced in **React Native + Go Full Stack Development**  
+- 📦 Building **GrowSpace** – a secure mobile cloud storage app  
+- 📊 Strong in **Monitoring** with Prometheus, Grafana, Zabbix & Nagios  
 - 🧑‍🏫 Trained **50+ students** on AWS through hands-on sessions  
-- 📦 Currently building **GrowSpace** – a secure, mobile-first cloud storage app
 
 ---
 
@@ -33,11 +34,40 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,git,github,linux,go,react,bash" />
-</p>
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+### 🏗️ DevOps & Infrastructure as Code
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### 📈 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat-square)
+
+### ☁️ Cloud Technologies
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+### 🌐 Web Technologies & Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+### 📚 Core Concepts
+- **OOPs**, **Networking**, **OSI Model**, **Communication Protocols**
+- **Cloud Deployment Models**, **Service Models**, **Cloud Security**, **Cloud Storage**
 
 ---
 
@@ -85,8 +115,6 @@
 
 ## 🏆 Achievements & Patents
 
-![Achievements](https://img.shields.io/badge/-Achievements-%23A855F7?style=for-the-badge&logo=medal&logoColor=white)
-
 - 🏅 **VISAI Finalist 2023** – AI-powered turmeric grading  
 - 📜 **Scitus Redemptio** – Smart irrigation system *(Patent Filed)*  
 - 📜 **Health Flush** – Smart urinalysis toilet *(Patent Filed)*
@@ -102,8 +130,6 @@
 ---
 
 ## 📜 Certifications
-
-![Certifications](https://img.shields.io/badge/-Certifications-%233B82F6?style=for-the-badge&logo=awslambda&logoColor=white)
 
 - 🏅 GitHub Foundations – GitHub (2024)  
 - ☕ Java (Basic) – HackerRank (2024)  
