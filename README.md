@@ -27,8 +27,8 @@
 
 > _“To automate, build, and innovate smart solutions through DevOps and Cloud technologies, simplifying complexity into elegant, scalable infrastructure.”_
 
-
 ---
+
 ## 💻 Technical Skills
 
 ### 👨‍💻 Languages
@@ -70,13 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="24" title="Spring Boot" />
 </p>
 
-### 🌐 Web Technologies & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React.js" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" title="Spring Boot" />
-</p>
 ---
 
 ## 🚧 Featured Projects
