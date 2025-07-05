@@ -45,7 +45,6 @@
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50" title="Prometheus" />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" title="Grafana" />
   <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" width="70" title="Zabbix" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/29/Nagios_logo.png" width="70" title="Nagios" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" title="Tailwind CSS" />
