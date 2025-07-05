@@ -33,35 +33,34 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" width="24" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="24" width="24" title="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" width="28" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" width="28" title="Bash" />
 
   <!-- DevOps / IaC -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24" width="24" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" width="24" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" width="24" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="24" width="24" title="Terraform" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="24" width="24" title="Ansible" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="24" width="24" title="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" width="24" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="24" width="24" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" width="28" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="28" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" width="28" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="28" width="28" title="Terraform" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="28" width="28" title="Ansible" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="28" width="28" title="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" width="28" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="28" width="28" title="Kubernetes" />
 
   <!-- Monitoring -->
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="24" width="24" title="Prometheus" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="24" width="24" title="Grafana" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Zabbix_logo.svg/1280px-Zabbix_logo.svg.png" height="24" width="24" title="Zabbix" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Nagios_logo.svg" height="24" width="24" title="Nagios" />
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="28" width="28" title="Prometheus" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="28" width="28" title="Grafana" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Zabbix_logo.svg/1280px-Zabbix_logo.svg.png" height="28" width="28" title="Zabbix" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Nagios_logo.svg" height="28" width="28" title="Nagios" />
 
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="24" width="24" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="28" width="28" title="AWS" />
 
   <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" width="24" title="React.js" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="24" width="24" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" width="24" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="24" width="24" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" title="React.js" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="28" width="28" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" width="28" title="Spring Boot" />
 </p>
-
 
 ---
 
