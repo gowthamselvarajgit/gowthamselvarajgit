@@ -1,13 +1,13 @@
-<h1 align="center" style="font-size:50px; font-weight:bold;">
+<h1 align="center">
   👋 Hai, I'm <span style="color:#0ea5e9;">Gowtham S</span>
 </h1>
 
-<h2 align="center" style="font-weight:normal;">
+<h3 align="center">
   ☁️ Cloud / DevOps Engineer &nbsp; | &nbsp; 💻 Full Stack Developer &nbsp; | &nbsp; 🧠 Automation Enthusiast
-</h2>
+</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" alt="DevOps Banner"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" alt="DevOps Banner" />
 </p>
 
 ---
@@ -28,6 +28,7 @@
 > _“To automate, build, and innovate smart solutions through DevOps and Cloud technologies, simplifying complexity into elegant, scalable infrastructure.”_
 
 ---
+
 ## 💻 Technical Skills
 
 <p align="center">
@@ -69,7 +70,7 @@
 📅 *2025 – Present* | 👥 *Team of 2* | 👨‍💻 *Role: Full Stack & DevOps Engineer*  
 🔗 [GitHub Repo](https://github.com/gowthamselvarajgit/GrowSpace)
 
-A mobile-first cloud storage platform like **Google Drive**, built for fast, secure, and scalable file management.
+> A mobile-first cloud storage platform like **Google Drive**, built for fast, secure, and scalable file management.
 
 **Tech Used**: React Native, Golang, AWS S3/EC2, Docker, Jenkins, Ansible, Terraform  
 **Features**:
