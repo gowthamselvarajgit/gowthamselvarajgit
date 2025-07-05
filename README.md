@@ -1,7 +1,7 @@
 <!-- 🔥 Custom Header -->
 <h1 align="center">
   <span style="color:#FEE75C; font-weight:900; font-size:40px;">
-    🚀 HELLO, I'M <span style="color:#00FFFF;">GOWTHAM S</span>
+    👋 HELLO, I'M <span style="color:#00FFFF;">GOWTHAM S</span>
   </span>
 </h1>
 
@@ -20,10 +20,10 @@
 ![About](https://img.shields.io/badge/-About%20Me-%23F97316?style=for-the-badge&logo=aboutdotme&logoColor=white)
 
 - 👨‍💻 Passionate **Cloud & DevOps Engineer**  
-- ☁️ Skilled in **AWS, Docker, Terraform, CI/CD**, and Infrastructure Automation  
-- 📈 Strong fundamentals in **Monitoring**, **Networking**, and **IaC**  
-- 🧑‍🏫 Trained **50+ students** in AWS Cloud at school-level outreach events  
-- 🧪 Currently working on **GrowSpace** – an RL-based plant growth simulator
+- ☁️ Skilled in **AWS, Docker, Terraform, CI/CD, Jenkins, Ansible**  
+- 📱 Experienced in **Full Stack Development using React Native & Golang**  
+- 🧑‍🏫 Trained **50+ students** on AWS through hands-on sessions  
+- 📦 Currently building **GrowSpace** – a secure, mobile-first cloud storage app
 
 ---
 
@@ -36,39 +36,50 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,git,github,linux,java,react,spring,postgresql,postman,tailwind,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,git,github,linux,go,react,bash" />
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🌱 **GrowSpace – RL-Based Plant Growth Simulator**
-📅 *2025 – Present* | 👥 *Team of 2* | 👨‍💻 *Role: Cloud Engineer*  
+### 📂 GrowSpace – Cloud File Storage & Sharing App  
+📆 *2025 – Present* | 👥 *Team of 2* | 👨‍💻 *Role: Full Stack & DevOps Engineer*  
 🔗 [GitHub Repo](https://github.com/gowthamselvarajgit/GrowSpace)
 
-- 🤖 Custom OpenAI Gym environment for smart plant growth using RL  
-- ⚙️ Built with **Python**, **Docker**, deployed using **AWS ECS**  
-- 📊 Data logs stored in **S3**, queried via **Athena**, and visualized using **QuickSight**  
-- 🧠 Solves control, fairness, and multi-objective plant growth challenges
+> A mobile-first cloud storage platform like **Google Drive**, built for fast, secure, and scalable file management.
+
+#### ⚙️ Tech Stack:
+- 📱 **Frontend:** React Native (Android/iOS)  
+- 🧠 **Backend:** Go (Golang) with JWT Auth  
+- ☁️ **Cloud:** AWS S3, EC2, IAM, CloudFront  
+- 🛠️ **DevOps:** Jenkins, Terraform, Ansible, Docker  
+- 🔗 **Version Control:** Git & GitHub
+
+#### 🚀 Features:
+- 🔐 Secure login & authentication  
+- 📁 Upload, preview, delete, and sync files across devices  
+- ☁️ Cloud storage powered by **AWS S3**  
+- ⚙️ CI/CD with Jenkins | Infra-as-Code with Terraform + Ansible  
+- 🐳 Fully containerized app with Docker
 
 ---
 
-### 🎂 **Serverless Email Birthday Wishes**
-📅 *2024 Q2*  
-- 💌 Sends personalized birthday emails using **SES, Lambda, S3, RDS, EventBridge**  
-- 🔐 IAM role-based access, templates stored in **S3**, recipients in **RDS**  
-- 📈 Logging & automation using **Athena**, **Glue**, **CloudWatch**
+### 🎂 Serverless Email Birthday Wishes  
+📆 *2024 Q2*  
+- 🎯 Built with **AWS Lambda, SES, S3, RDS, EventBridge, Glue, Athena**  
+- 🔁 Sends automated personalized emails on birthdays  
+- 🛡️ IAM-secured, serverless pipeline
 
 ---
 
-### 📊 **Real-Time E-Commerce Analytics Platform**
-📅 *2024 Q4 – Present*  
+### 📊 Real-Time E-Commerce Analytics Platform  
+📆 *2024 Q4 – Present*  
 🔗 [Architecture Diagram](https://bit.ly/ArchitectureDiagram)
 
-- 📡 Built with **Amazon Kinesis**, **Glue**, **Athena**, and **DynamoDB**  
-- 🔔 Alerting via **SNS**, dashboards in **QuickSight**  
-- 🧊 Designed for anomaly detection in real-time e-commerce data
+- 📡 Data stream via **Kinesis**, processing via **Glue & Lambda**  
+- 🔔 Alerts using **SNS**, dashboards via **QuickSight**  
+- 🧊 Scalable architecture for real-time insights
 
 ---
 
@@ -78,13 +89,13 @@
 
 - 🏅 **VISAI Finalist 2023** – AI-powered turmeric grading  
 - 📜 **Scitus Redemptio** – Smart irrigation system *(Patent Filed)*  
-- 📜 **Health Flush** – Health monitoring urinalysis toilet *(Patent Filed)*
+- 📜 **Health Flush** – Smart urinalysis toilet *(Patent Filed)*
 
 ---
 
 ## 📚 Education
 
-🎓 **B.E – Electronics & Instrumentation**, Bannari Amman Institute of Tech (CGPA: 7.49)  
+🎓 **B.E – Electronics & Instrumentation**, BIT (CGPA: 7.49)  
 🏫 HSC – Saratha International School (78.4%)  
 🏫 SSLC – Montfort School (75.4%)
 
