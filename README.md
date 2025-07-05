@@ -1,6 +1,13 @@
+<!-- 🔥 Custom Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=FEE75C&background=0A0A0A00&center=true&vCenter=true&width=1000&height=70&lines=🚀+HELLO%2C+I'M+GOWTHAM+S!;☁️+Cloud+%2F+DevOps+Engineer+|+Automation+Wizard!" alt="Typing SVG" />
+  <span style="color:#FEE75C; font-weight:900; font-size:40px;">
+    🚀 HELLO, I'M <span style="color:#00FFFF;">GOWTHAM S</span>
+  </span>
 </h1>
+
+<h3 align="center">
+  <b>☁️ Cloud / DevOps Engineer &nbsp; | &nbsp; 💻 Full Stack Developer &nbsp; | &nbsp; 🧠 Automation Enthusiast</b>
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" alt="DevOps Banner"/>
@@ -10,13 +17,13 @@
 
 ## 🌟 About Me
 
-![About](https://img.shields.io/badge/-Who%20Am%20I%3F-%23E96479?style=for-the-badge&logo=cloudflare&logoColor=white)
+![About](https://img.shields.io/badge/-About%20Me-%23F97316?style=for-the-badge&logo=aboutdotme&logoColor=white)
 
 - 👨‍💻 Passionate **Cloud & DevOps Engineer**  
-- 📦 Skilled in **AWS, Docker, Terraform, CI/CD**, and automation tools  
-- 🌱 Constantly learning & contributing to open-source DevOps practices  
-- 🧑‍🏫 Trained **50+ school students** in AWS Cloud fundamentals  
-- 🌟 Currently building **GrowSpace** – An RL-based plant growth simulator
+- ☁️ Skilled in **AWS, Docker, Terraform, CI/CD**, and Infrastructure Automation  
+- 📈 Strong fundamentals in **Monitoring**, **Networking**, and **IaC**  
+- 🧑‍🏫 Trained **50+ students** in AWS Cloud at school-level outreach events  
+- 🧪 Currently working on **GrowSpace** – an RL-based plant growth simulator
 
 ---
 
@@ -26,7 +33,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,git,github,linux,java,react,spring,postgresql,postman,tailwind,bash" />
@@ -34,46 +41,50 @@
 
 ---
 
-## 🔥 Projects
+## 🔥 Featured Projects
 
-### 🌱 GrowSpace – RL-Based Plant Growth Simulator
-📆 *2025 – Present* | 🧠 *Custom Gym Env + AI*  
+### 🌱 **GrowSpace – RL-Based Plant Growth Simulator**
+📅 *2025 – Present* | 👥 *Team of 2* | 👨‍💻 *Role: Cloud Engineer*  
 🔗 [GitHub Repo](https://github.com/gowthamselvarajgit/GrowSpace)
 
-- 🔥 Trains agents to grow virtual plants using reinforcement learning  
-- ⚙️ Built with **Python**, **OpenAI Gym**, **Docker**, **AWS ECS**  
-- 🧠 Tackles fairness, control, and multi-agent growth challenges  
-- 📊 Logs stored in **S3**, analyzed in **Athena**, visualized via **QuickSight**
+- 🤖 Custom OpenAI Gym environment for smart plant growth using RL  
+- ⚙️ Built with **Python**, **Docker**, deployed using **AWS ECS**  
+- 📊 Data logs stored in **S3**, queried via **Athena**, and visualized using **QuickSight**  
+- 🧠 Solves control, fairness, and multi-objective plant growth challenges
 
 ---
 
-### 🎂 Serverless Birthday Email Automation
-📆 *2024 Q2*  
-- 💌 Sends birthday wishes using **SES, Lambda, S3, RDS, EventBridge**  
-- 🔐 IAM-secured with logs stored and queried via **Athena**
+### 🎂 **Serverless Email Birthday Wishes**
+📅 *2024 Q2*  
+- 💌 Sends personalized birthday emails using **SES, Lambda, S3, RDS, EventBridge**  
+- 🔐 IAM role-based access, templates stored in **S3**, recipients in **RDS**  
+- 📈 Logging & automation using **Athena**, **Glue**, **CloudWatch**
 
 ---
 
-### 📊 Real-Time E-Commerce Analytics
-📆 *2024 Q4 – Present*  
+### 📊 **Real-Time E-Commerce Analytics Platform**
+📅 *2024 Q4 – Present*  
 🔗 [Architecture Diagram](https://bit.ly/ArchitectureDiagram)
 
-- 📡 Stream data via **Kinesis**, processed by **Glue & Lambda**  
-- 📈 Alerts using **SNS**, dashboards in **QuickSight**
+- 📡 Built with **Amazon Kinesis**, **Glue**, **Athena**, and **DynamoDB**  
+- 🔔 Alerting via **SNS**, dashboards in **QuickSight**  
+- 🧊 Designed for anomaly detection in real-time e-commerce data
 
 ---
 
 ## 🏆 Achievements & Patents
 
-- 🏅 **VISAI Finalist 2023** – Turmeric grading using AI  
-- 📜 **Scitus Redemptio** – Smart irrigation system using ML *(Patent Filed)*  
-- 📜 **Health Flush** – Smart urinalysis toilet *(Patent Filed)*
+![Achievements](https://img.shields.io/badge/-Achievements-%23A855F7?style=for-the-badge&logo=medal&logoColor=white)
+
+- 🏅 **VISAI Finalist 2023** – AI-powered turmeric grading  
+- 📜 **Scitus Redemptio** – Smart irrigation system *(Patent Filed)*  
+- 📜 **Health Flush** – Health monitoring urinalysis toilet *(Patent Filed)*
 
 ---
 
 ## 📚 Education
 
-🎓 **B.E – Electronics & Instrumentation**, BIT (CGPA: 7.49)  
+🎓 **B.E – Electronics & Instrumentation**, Bannari Amman Institute of Tech (CGPA: 7.49)  
 🏫 HSC – Saratha International School (78.4%)  
 🏫 SSLC – Montfort School (75.4%)
 
@@ -81,13 +92,15 @@
 
 ## 📜 Certifications
 
+![Certifications](https://img.shields.io/badge/-Certifications-%233B82F6?style=for-the-badge&logo=awslambda&logoColor=white)
+
 - 🏅 GitHub Foundations – GitHub (2024)  
 - ☕ Java (Basic) – HackerRank (2024)  
 - ☁️ AWS Cloud Practitioner – Stephane Maarek (2024)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gowthamselvarajgit&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
@@ -118,7 +131,7 @@
     <img src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@FlockZen" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
