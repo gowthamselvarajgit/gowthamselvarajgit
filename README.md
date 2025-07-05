@@ -32,9 +32,12 @@
 ## 💻 Technical Skills
 
 <p align="center">
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
+  
+  <!-- DevOps / IaC -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" title="Terraform" />
@@ -42,10 +45,16 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" title="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" />
+
+  <!-- Monitoring -->
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="50" title="Prometheus" />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" title="Grafana" />
   <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" width="70" title="Zabbix" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS" />
+
+  <!-- Cloud -->
+  <img src="https://img.icons8.com/color/480/amazon-web-services.png" width="50" title="AWS" />
+
+  <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML" />
