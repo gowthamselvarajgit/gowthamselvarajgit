@@ -29,38 +29,45 @@
 
 
 ---
-
 ## 💻 Technical Skills
 
 ### 👨‍💻 Languages
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" title="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="24" title="Bash" />
 </p>
 
 ### ⚙️ DevOps & Infrastructure as Code
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" title="Terraform" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="30" title="Ansible" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="30" title="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="24" title="Terraform" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="24" title="Ansible" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="24" title="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="24" title="Kubernetes" />
 </p>
 
 ### 📈 Monitoring & Observability
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="30" title="Prometheus" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="30" title="Grafana" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Zabbix_logo.svg/1280px-Zabbix_logo.svg.png" height="30" title="Zabbix" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Nagios_logo.svg" height="30" title="Nagios" />
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="24" title="Prometheus" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="24" title="Grafana" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Zabbix_logo.svg/1280px-Zabbix_logo.svg.png" height="24" title="Zabbix" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Nagios_logo.svg" height="24" title="Nagios" />
 </p>
 
 ### ☁️ Cloud Technologies
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="24" title="AWS" />
+</p>
+
+### 🌐 Web Technologies & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" title="React.js" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="24" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="24" title="Spring Boot" />
 </p>
 
 ### 🌐 Web Technologies & Frameworks
@@ -70,6 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" title="Spring Boot" />
 </p>
+---
 
 ## 🚧 Featured Projects
 
