@@ -1,13 +1,10 @@
-<!-- 👋 Friendly Header -->
-<h1 align="center">
-  <span style="font-weight:900; font-size:40px;">
-    👋 Hai, I'm <span style="color:#0ea5e9;">Gowtham S</span>
-  </span>
+<h1 align="center" style="font-size:50px; font-weight:bold;">
+  👋 Hai, I'm <span style="color:#0ea5e9;">Gowtham S</span>
 </h1>
 
-<h3 align="center">
-  <b>☁️ Cloud / DevOps Engineer &nbsp; | &nbsp; 💻 Full Stack Developer &nbsp; | &nbsp; 🧠 Automation Enthusiast</b>
-</h3>
+<h2 align="center" style="font-weight:normal;">
+  ☁️ Cloud / DevOps Engineer &nbsp; | &nbsp; 💻 Full Stack Developer &nbsp; | &nbsp; 🧠 Automation Enthusiast
+</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" alt="DevOps Banner"/>
@@ -17,14 +14,12 @@
 
 ## 🌟 About Me
 
-![About](https://img.shields.io/badge/-About%20Me-%23F97316?style=for-the-badge&logo=aboutdotme&logoColor=white)
-
-- 👨‍💻 Passionate **Cloud & DevOps Engineer**  
-- ☁️ Skilled in **AWS, Docker, Terraform, CI/CD, Jenkins, Ansible**  
-- 📱 Experienced in **React Native + Go Full Stack Development**  
-- 📦 Building **GrowSpace** – a secure mobile cloud storage app  
-- 📊 Strong in **Monitoring** with Prometheus, Grafana, Zabbix & Nagios  
-- 🧑‍🏫 Trained **50+ students** on AWS through hands-on sessions  
+- 👨‍💻 Passionate **Cloud & DevOps Engineer**
+- ☁️ Skilled in **AWS, Docker, Terraform, CI/CD, Jenkins, Ansible**
+- 📱 Experienced in **React Native + Go Full Stack Development**
+- 📦 Building **GrowSpace** – a secure mobile cloud storage app
+- 📊 Strong in **Monitoring** with Prometheus, Grafana, Zabbix & Nagios
+- 🧑‍🏫 Delivered AWS workshops to **50+ students**
 
 ---
 
@@ -36,96 +31,109 @@
 
 ## 🧠 Technical Skills
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+### 🔤 Languages
+- Java, Bash
 
-### 🏗️ DevOps & Infrastructure as Code
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+### ⚙️ DevOps & Infrastructure as Code
+- Linux, Git, GitHub, Terraform, Ansible, Jenkins, Docker, Kubernetes
 
 ### 📈 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat-square)
+- Prometheus, Grafana, Zabbix, Nagios
 
-### ☁️ Cloud Technologies
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+### ☁️ Cloud
+- Amazon Web Services (AWS)
 
 ### 🌐 Web Technologies & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+- React.js, Tailwind CSS, HTML, Spring Boot
 
-### 📚 Core Concepts
-- **OOPs**, **Networking**, **OSI Model**, **Communication Protocols**
-- **Cloud Deployment Models**, **Service Models**, **Cloud Security**, **Cloud Storage**
+### 🧩 Concepts
+- OOPs, Networking, OSI Model, Communication Protocols  
+- Cloud Deployment & Service Models, Cloud Security, Cloud Storage
 
 ---
 
-## 🔥 Featured Projects
+## 💻 Tech Stack Icons
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" title="Bash"/>
+
+  <!-- DevOps / IaC -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" title="Terraform"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="40" title="Ansible"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" title="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes"/>
+
+  <!-- Monitoring & Observability -->
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="40" title="Prometheus"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40" title="Grafana"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Zabbix_logo.svg/1280px-Zabbix_logo.svg.png" height="40" title="Zabbix"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Nagios_logo.svg" height="40" title="Nagios"/>
+
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" title="AWS"/>
+
+  <!-- Web & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React.js"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot"/>
+</p>
+
+---
+
+## 🚧 Featured Projects
 
 ### 📂 GrowSpace – Cloud File Storage & Sharing App  
-📆 *2025 – Present* | 👥 *Team of 2* | 👨‍💻 *Role: Full Stack & DevOps Engineer*  
+📅 *2025 – Present* | 👥 *Team of 2* | 👨‍💻 *Role: Full Stack & DevOps Engineer*  
 🔗 [GitHub Repo](https://github.com/gowthamselvarajgit/GrowSpace)
 
-> A mobile-first cloud storage platform like **Google Drive**, built for fast, secure, and scalable file management.
+A mobile-first cloud storage platform like **Google Drive**, built for fast, secure, and scalable file management.
 
-#### ⚙️ Tech Stack:
-- 📱 **Frontend:** React Native (Android/iOS)  
-- 🧠 **Backend:** Go (Golang) with JWT Auth  
-- ☁️ **Cloud:** AWS S3, EC2, IAM, CloudFront  
-- 🛠️ **DevOps:** Jenkins, Terraform, Ansible, Docker  
-- 🔗 **Version Control:** Git & GitHub
-
-#### 🚀 Features:
-- 🔐 Secure login & authentication  
-- 📁 Upload, preview, delete, and sync files across devices  
-- ☁️ Cloud storage powered by **AWS S3**  
-- ⚙️ CI/CD with Jenkins | Infra-as-Code with Terraform + Ansible  
-- 🐳 Fully containerized app with Docker
+**Tech Used**: React Native, Golang, AWS S3/EC2, Docker, Jenkins, Ansible, Terraform  
+**Features**:
+- 🔐 Secure login & file sharing  
+- ☁️ S3-backed upload, delete, sync  
+- ⚙️ CI/CD and Infra-as-Code deployment
 
 ---
 
 ### 🎂 Serverless Email Birthday Wishes  
 📆 *2024 Q2*  
-- 🎯 Built with **AWS Lambda, SES, S3, RDS, EventBridge, Glue, Athena**  
-- 🔁 Sends automated personalized emails on birthdays  
-- 🛡️ IAM-secured, serverless pipeline
+- Built with AWS Lambda, SES, S3, EventBridge  
+- Sends automated personalized birthday emails  
+- IAM-secured, ETL via Athena & Glue
 
 ---
 
-### 📊 Real-Time E-Commerce Analytics Platform  
+### 📊 Real-Time E-Commerce Analytics  
 📆 *2024 Q4 – Present*  
 🔗 [Architecture Diagram](https://bit.ly/ArchitectureDiagram)
 
-- 📡 Data stream via **Kinesis**, processing via **Glue & Lambda**  
-- 🔔 Alerts using **SNS**, dashboards via **QuickSight**  
-- 🧊 Scalable architecture for real-time insights
+- Real-time tracking using Kinesis, Lambda, and QuickSight  
+- Alerts via SNS  
+- S3 + Glue used for logs & dashboards
 
 ---
 
 ## 🏆 Achievements & Patents
 
-- 🏅 **VISAI Finalist 2023** – AI-powered turmeric grading  
-- 📜 **Scitus Redemptio** – Smart irrigation system *(Patent Filed)*  
-- 📜 **Health Flush** – Smart urinalysis toilet *(Patent Filed)*
+- 🏅 **VISAI Finalist 2023** – AI turmeric grading  
+- 📜 *Scitus Redemptio* – Smart irrigation *(Patent Filed)*  
+- 📜 *Health Flush* – Smart urinalysis system *(Patent Filed)*
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
-🎓 **B.E – Electronics & Instrumentation**, BIT (CGPA: 7.49)  
-🏫 HSC – Saratha International School (78.4%)  
-🏫 SSLC – Montfort School (75.4%)
+- 🎓 **B.E – Electronics & Instrumentation**, BIT (CGPA: 7.49)  
+- 📘 HSC – Saratha International School (78.4%)  
+- 📗 SSLC – Montfort School (75.4%)
 
 ---
 
@@ -150,7 +158,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gowthamselvarajgit&theme=dracula&no-frame=true&column=7" />
@@ -158,7 +166,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gowtham4026/" target="_blank">
@@ -174,12 +182,12 @@
 
 ---
 
-## 🎯 Mission
+## 🧭 Mission
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=45&lines=Automate+Everything.;Simplify+the+Complex.;Empower+Teams+with+Cloud.;Code.+Ship.+Repeat." />
 </p>
 
 <p align="center" style="font-size: 1.2rem;">
-  🔥 <i>"Driven by a mission to automate, innovate, and deliver excellence in the world of Cloud & DevOps."</i>
+  🔥 <i>Driven by a mission to automate, innovate, and deliver excellence in the world of Cloud & DevOps.</i>
 </p>
