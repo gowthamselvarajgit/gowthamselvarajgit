@@ -27,51 +27,48 @@
 
 > _“To automate, build, and innovate smart solutions through DevOps and Cloud technologies, simplifying complexity into elegant, scalable infrastructure.”_
 
+
 ---
 
-## 🧠 Technical Skills
+## 💻 Technical Skills
 
-### 🔤 Languages
-- Java, Bash
+### 👨‍💻 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" title="Bash" />
+</p>
 
 ### ⚙️ DevOps & Infrastructure as Code
-- Linux, Git, GitHub, Terraform, Ansible, Jenkins, Docker, Kubernetes
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" title="Terraform" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="30" title="Ansible" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="30" title="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" title="Kubernetes" />
+</p>
 
 ### 📈 Monitoring & Observability
-- Prometheus, Grafana, Zabbix, Nagios
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="30" title="Prometheus" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="30" title="Grafana" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Zabbix_logo.svg/1280px-Zabbix_logo.svg.png" height="30" title="Zabbix" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Nagios_logo.svg" height="30" title="Nagios" />
+</p>
 
-### ☁️ Cloud
-- Amazon Web Services (AWS)
+### ☁️ Cloud Technologies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" title="AWS" />
+</p>
 
 ### 🌐 Web Technologies & Frameworks
-- React.js, Tailwind CSS, HTML, Spring Boot
-
-### 🧩 Concepts
-- OOPs, Networking, OSI Model, Communication Protocols  
-- Cloud Deployment & Service Models, Cloud Security, Cloud Storage
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" title="AWS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="32" title="Ansible"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="32" title="Terraform"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="32" title="Jenkins"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="32" title="Prometheus"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="32" title="Grafana"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" title="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32" title="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" title="Spring Boot"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="32" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" title="HTML"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React.js" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" title="Spring Boot" />
 </p>
 
 ## 🚧 Featured Projects
