@@ -34,36 +34,80 @@
 </div>
 
 ---
-
 ## 🚀 Featured Projects
+
+<div align="center">
+
+### ✨ Featured Work  
+<i>Things I've built and shipped</i>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🌱 GrowSpace  
-Cloud storage app with AWS & CI/CD  
+### 🏥 Health Insurance  
+<sub>🔵 Team Lead</sub>
 
-<a href="https://github.com/gowthamselvarajgit/GrowSpace">🔗 View</a>
+Full-stack system with policy management, tracking & secure backend.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-1f2937?style=flat&logo=openjdk"/>
+<img src="https://img.shields.io/badge/SpringBoot-1f2937?style=flat&logo=spring"/>
+<img src="https://img.shields.io/badge/MySQL-1f2937?style=flat&logo=mysql"/>
+
+<br/><br/>
+
+<a href="https://github.com/gowthamselvarajgit/Health-Insurance-Claim-Management-System">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="33%">
-
-### 🏥 Insurance System  
-Full-stack Spring Boot project  
-
-<a href="https://github.com/gowthamselvarajgit/Health-Insurance-Claim-Management-System">🔗 View</a>
-
-</td>
-
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 📘 WordWise  
-Interactive learning platform  
+<sub>🟢 Developer</sub>
 
-<a href="https://github.com/gowthamselvarajgit/WordWise">🔗 View</a>
+Vocabulary learning app with interactive UI & backend integration.
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-1f2937?style=flat&logo=react"/>
+<img src="https://img.shields.io/badge/SpringBoot-1f2937?style=flat"/>
+<img src="https://img.shields.io/badge/Java-1f2937?style=flat"/>
+
+<br/><br/>
+
+<a href="https://github.com/gowthamselvarajgit/WordWise">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌱 GrowSpace  
+<sub>🟡 Developer</sub>
+
+Cloud storage platform with AWS, Docker & CI/CD pipeline.
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-1f2937?style=flat&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-1f2937?style=flat&logo=docker"/>
+<img src="https://img.shields.io/badge/Terraform-1f2937?style=flat"/>
+
+<br/><br/>
+
+<a href="https://github.com/gowthamselvarajgit/GrowSpace">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -71,59 +115,96 @@ Interactive learning platform
 
 <tr>
 
-<td width="33%">
-
-### ⚙️ DevOps Labs  
-Terraform, Jenkins, Bash  
-
-<a href="https://github.com/gowthamselvarajgit/terraform-learn">Terraform</a>  
-<a href="https://github.com/gowthamselvarajgit/Jenkins_Learn">Jenkins</a>  
-
-</td>
-
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 👥 Employee System  
-Backend HR management system  
+<sub>🟢 Developer</sub>
 
-<a href="https://github.com/gowthamselvarajgit/Employers-Management-System">🔗 View</a>
+Enterprise HR system with payroll & employee record management.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-1f2937?style=flat"/>
+<img src="https://img.shields.io/badge/SpringBoot-1f2937?style=flat"/>
+<img src="https://img.shields.io/badge/MySQL-1f2937?style=flat"/>
+
+<br/><br/>
+
+<a href="https://github.com/gowthamselvarajgit/Employers-Management-System">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 💻 DSA Codes  
-Java & Python problem solving  
+### ⚙️ DevOps Labs  
+<sub>🟣 Trainer</sub>
 
-<a href="https://github.com/gowthamselvarajgit/Java-Code-Gowtham">Java</a>  
-<a href="https://github.com/gowthamselvarajgit/Python-Code-Gowtham">Python</a>
+Hands-on labs for Terraform, Jenkins & Bash scripting.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Terraform-1f2937?style=flat"/>
+<img src="https://img.shields.io/badge/Jenkins-1f2937?style=flat"/>
+<img src="https://img.shields.io/badge/Bash-1f2937?style=flat"/>
+
+<br/><br/>
+
+<a href="https://github.com/gowthamselvarajgit/terraform-learn">
+<img src="https://img.shields.io/badge/Terraform-58A6FF?style=flat"/>
+</a>
+<a href="https://github.com/gowthamselvarajgit/Jenkins_Learn">
+<img src="https://img.shields.io/badge/Jenkins-58A6FF?style=flat"/>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💻 DSA Collections  
+<sub>🟠 Author</sub>
+
+Problem solving & algorithms in Java and Python.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-1f2937?style=flat"/>
+<img src="https://img.shields.io/badge/Python-1f2937?style=flat"/>
+
+<br/><br/>
+
+<a href="https://github.com/gowthamselvarajgit/Java-Code-Gowtham">
+<img src="https://img.shields.io/badge/Java-58A6FF?style=flat"/>
+</a>
+<a href="https://github.com/gowthamselvarajgit/Python-Code-Gowtham">
+<img src="https://img.shields.io/badge/Python-58A6FF?style=flat"/>
+</a>
 
 </td>
 
 </tr>
-</table>
 
+</table>
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gowthamselvarajgit&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gowthamselvarajgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamselvarajgit&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=gowthamselvarajgit&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamselvarajgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowthamselvarajgit&theme=github_dark"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=gowthamselvarajgit&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowthamselvarajgit&theme=tokyonight" />
 
 </div>
-
----
 
 ## 🐍 Contribution Snake
 
