@@ -60,7 +60,7 @@
 
 ### ⚡ Tech Snapshot
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,git,java,spring,spring boot,react,mysql,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,git,java,spring,react,mysql,python&theme=dark" />
 
 </div>
 
