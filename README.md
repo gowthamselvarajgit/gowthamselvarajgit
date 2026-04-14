@@ -1,3 +1,4 @@
+<h1 align="center">👋🏾 Hi, I'm Gowtham Selvaraj 👩🏾‍💻</h1>
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/gowthamselvarajgit/gowthamselvarajgit/main/assets/banner.png.png" />
@@ -190,13 +191,13 @@ Problem solving & algorithms in Java and Python.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gowthamselvarajgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamselvarajgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/> -->
 
 <img width="70%" src="https://streak-stats.demolab.com?user=gowthamselvarajgit&theme=tokyonight&hide_border=true" />
 
