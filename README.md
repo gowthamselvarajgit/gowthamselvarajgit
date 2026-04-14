@@ -203,19 +203,23 @@ Problem solving & algorithms in Java and Python.
 
 ## 📊 GitHub Analytics
 
-<!-- <div align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gowthamselvarajgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamselvarajgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/> -->
-
-<img width="70%" src="https://streak-stats.demolab.com?user=gowthamselvarajgit&theme=tokyonight&hide_border=true" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=gowthamselvarajgit&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowthamselvarajgit&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gowthamselvarajgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamselvarajgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowthamselvarajgit&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gowthamselvarajgit&theme=tokyonight" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=gowthamselvarajgit&theme=tokyonight&hide_border=true" />
 
 </div>
 
