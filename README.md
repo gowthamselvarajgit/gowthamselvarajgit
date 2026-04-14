@@ -32,34 +32,7 @@
 
 <div align="center">
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,git&theme=dark" />
-
-<br/><br/>
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
-
-<br/><br/>
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js&theme=dark" />
-
-<br/><br/>
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-<br/><br/>
-
-### 📊 Monitoring
-<img src="https://img.shields.io/badge/Prometheus-58A6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Grafana-58A6FF?style=for-the-badge"/>
-
-<br/><br/>
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,git,java,spring,maven,react,tailwind,html,css,js,mysql,python,tensorflow,pytorch&theme=dark" />
 
 </div>
 
