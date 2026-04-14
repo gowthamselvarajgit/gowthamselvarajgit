@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/gowthamselvarajgit/gowthamselvarajgit/main/assets/banner.png" />
+<img width="100%" src="https://raw.githubusercontent.com/gowthamselvarajgit/gowthamselvarajgit/main/assets/banner.png.png" />
 
 <br/>
 
