@@ -26,6 +26,8 @@
 
 ## 🧠 About Me
 
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 <div align="left">
 
 ### 👋 Hey, I'm <span style="color:#58A6FF;">Gowtham</span>
@@ -49,6 +51,29 @@
 
 📧 <b>Contact:</b>  
 ➡️ <span style="color:#8B949E;">gowtham26.work@gmail.com</span>  
+
+</div>
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+### ⚡ Quick Highlights
+
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ <i>"Building scalable systems, automating everything, and constantly evolving 🚀"</i>
 
 </div>
 
