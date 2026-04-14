@@ -317,56 +317,9 @@
 
 ## 🐍 Contribution Snake
 
-> ⚠️ **Setup required:** Add the GitHub Action below to generate the snake — [setup guide](#-snake-setup-guide)
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/gowthamselvarajgit/gowthamselvarajgit/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
-
----
-
-## ⚙️ Snake Setup Guide
-
-<details>
-<summary>Click to expand — one-time setup (5 mins)</summary>
-
-**Step 1:** In your `gowthamselvarajgit` repo, create this file:
-`.github/workflows/snake.yml`
-
-**Step 2:** Paste this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: gowthamselvarajgit
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3:** Go to **Actions tab → Run workflow** once manually.
-
-Done! The snake will regenerate every day automatically. ✅
-
-</details>
 
 ---
 
