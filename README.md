@@ -9,9 +9,6 @@
 
 </a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Explore-Projects_|_Skills_|_Experience-0d1117?style=flat-square&color=0d1117&labelColor=58A6FF"/>
 
 </div>
 
