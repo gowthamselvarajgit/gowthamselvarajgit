@@ -1,58 +1,19 @@
 <h1 align="center"> Hi, I'm Gowtham Selvaraj 👋🏻 🧑🏻‍💻</h1>
 <div align="center">
   
+<div align="center">
+
 <a href="https://gowthamselvarajgit.github.io/Gowtham-Portfolio/">
 
-<svg width="420" height="110" viewBox="0 0 420 110" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="50%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#0d1117"/>
-    </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <style>
-      @keyframes pulse {
-        0%,100% { opacity: 1; }
-        50% { opacity: 0.6; }
-      }
-      @keyframes float {
-        0%,100% { transform: translateY(0); }
-        50% { transform: translateY(-4px); }
-      }
-      .card {
-        animation: float 3s ease-in-out infinite;
-        filter: url(#glow);
-      }
-      .text {
-        animation: pulse 2s infinite;
-      }
-    </style>
-
-  </defs>
-
-  <rect x="5" y="5" rx="20" ry="20" width="410" height="100" fill="url(#grad)" class="card"/>
-
-  <text x="210" y="55" text-anchor="middle" fill="#ffffff" font-size="18" font-family="Arial" class="text">
-    🌐 Visit My Portfolio
-  </text>
-
-  <text x="210" y="80" text-anchor="middle" fill="#8b949e" font-size="12" font-family="Arial">
-    Click to explore my work 🚀
-  </text>
-
-</svg>
+<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Click_Here-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Explore-Projects_|_Skills_|_Experience-0d1117?style=flat-square&color=0d1117&labelColor=58A6FF"/>
+
+</div>
 
 
 <img width="100%" src="https://raw.githubusercontent.com/gowthamselvarajgit/gowthamselvarajgit/main/assets/banner.png.png" />
