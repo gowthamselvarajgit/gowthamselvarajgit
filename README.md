@@ -1,4 +1,4 @@
-<h1 align="center">👋🏾 Hi, I'm Gowtham Selvaraj 👩🏾‍💻</h1>
+<h1 align="center"> Hi, I'm Gowtham Selvaraj 👋🏻 🧑🏻‍💻</h1>
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/gowthamselvarajgit/gowthamselvarajgit/main/assets/banner.png.png" />
