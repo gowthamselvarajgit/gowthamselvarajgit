@@ -1,103 +1,294 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Gowtham%20S&fontSize=80&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20•%20DevOps%20•%20AI%20Learner&descAlignY=58&descSize=20&descColor=E0FFFF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1923,70:162032,100:0d1117&height=220&section=header&text=Gowtham%20S&fontSize=78&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%E2%80%A2%20DevOps%20Architect%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=19&descColor=8b949e" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=☁️+AWS+•+Docker+•+Kubernetes+•+Terraform;⚙️+CI%2FCD+•+Jenkins+•+Ansible;🤖+AI+•+Machine+Learning+•+Python;💻+Spring+Boot+•+React+•+Full+Stack;🏆+2+Patents+Filed+•+VISAI+Finalist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=%E2%98%81%EF%B8%8F+AWS+%7C+Docker+%7C+Terraform+%7C+Kubernetes;%F0%9F%94%A7+CI%2FCD+%7C+Jenkins+%7C+Ansible+%7C+DevOps;%F0%9F%92%BB+Spring+Boot+%7C+React+%7C+Go+%7C+Full+Stack;%F0%9F%9A%80+Building+GrowSpace+%E2%80%94+Cloud+Storage+App;%F0%9F%8F%86+VISAI+Finalist+2023+%7C+2+Patents+Filed)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gowtham4026/)
-[![Gmail](https://img.shields.io/badge/Gmail-00F5FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:gowtham26.work@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-00F5FF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@gowtham26.work)
-[![YouTube](https://img.shields.io/badge/YouTube-00F5FF?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/@FlockZen)
-[![GitHub](https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gowthamselvarajgit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham4026/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowtham26.work@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gowtham26.work)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FlockZen)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowthamselvarajgit)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=gowthamselvarajgit&label=Profile+Views&color=00F5FF&style=flat-square" />
+![Profile Views](https://komarev.com/ghpvc/?username=gowthamselvarajgit&label=Profile+Views&color=58a6ff&style=flat-square)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-DevOps_%7C_Cloud_%7C_Full_Stack-238636?style=flat-square)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🧠 About Me
 
-- 💼 **Programmer Analyst Trainee @ Cognizant**
-- 🤖 Currently learning **Artificial Intelligence & Machine Learning**
-- ☁️ Passionate about **Cloud, DevOps & Automation**
-- 👨‍🏫 Trained **50+ students in AWS & DevOps**
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<div align="left">
+
+### 👋 Hey, I'm <span style="color:#58A6FF;">Gowtham</span>
+
+💼 <b>Programmer Analyst Trainee</b> @ <b>Cognizant, Kolkata</b>  
+🎓 <b>B.E EIE</b> — Bannari Amman Institute of Technology  
+📍 <b>India 🇮🇳</b>  
+
+<br/>
+
+### 🚀 What I'm Doing
+
+✨ <b>Building:</b>  
+➡️ <span style="color:#58A6FF;">GrowSpace — Cloud Storage App</span>  
+
+🌱 <b>Learning:</b>  
+➡️ <span style="color:#FFA657;">Artificial Intelligence & Machine Learning</span>  
+
+👨‍🏫 <b>Experience:</b>  
+➡️ <span style="color:#3FB950;">Trained 50+ students in AWS & DevOps</span>  
+
+📧 <b>Contact:</b>  
+➡️ <span style="color:#8B949E;">gowtham26.work@gmail.com</span>  
+
+</div>
+
+<br clear="right"/>
 
 ---
+
+<div align="center">
+
+### ⚡ Quick Highlights
+
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ <i>"Building scalable systems, automating everything, and constantly evolving 🚀"</i>
+
+</div>
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+### ⚡ Quick Highlights
+
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ <i>"Building scalable systems, automating everything, and constantly evolving 🚀"</i>
+
+</div>
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+### ⚡ Tech Snapshot
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,git,java,spring,react,mysql,python&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Cloud+Systems;DevOps+%7C+Automation+%7C+Innovation;Always+Learning+Something+New" />
+
+</div>
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,git&theme=dark" />
+### ☁️ Cloud & DevOps (Core Strength)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-<br/><br/>
+### ⚙️ Backend Engineering (Primary)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-### ⚙️ Backend Engineering
-<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
+### 🎨 Frontend & Full Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge)
 
-<br/><br/>
-
-### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js&theme=dark" />
-
-<br/><br/>
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-<br/><br/>
+### 🗄️ Databases & Core Tools
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ### 📊 Monitoring & Observability
-<img src="https://img.shields.io/badge/Prometheus-00F5FF?style=for-the-badge&logo=prometheus&logoColor=black"/>
-<img src="https://img.shields.io/badge/Grafana-00F5FF?style=for-the-badge&logo=grafana&logoColor=black"/>
-<img src="https://img.shields.io/badge/Zabbix-00F5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nagios-00F5FF?style=for-the-badge"/>
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge)
+![Nagios](https://img.shields.io/badge/Nagios-EE2A24?style=for-the-badge)
 
-<br/><br/>
-
-### 🤖 AI / ML (Learning)
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Scikit_Learn-00F5FF?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-00F5FF?style=for-the-badge&logo=opencv&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-00F5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-00F5FF?style=for-the-badge&logo=pandas&logoColor=black"/>
-<img src="https://img.shields.io/badge/NumPy-00F5FF?style=for-the-badge&logo=numpy&logoColor=black"/>
+### 🤖 AI / ML (Currently Learning 🚀)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 
 </div>
 
+## 💼 Work Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Cognizant
+**`Programmer Analyst Trainee`**
+📅 *Nov 2025 – Present | Kolkata, WB*
+
+- Mastered **Spring Boot** for enterprise backend apps
+- Built **RESTful APIs** with Spring Data JPA + Spring Security
+- Applied **Agile Scrum** with Maven + Log4j/SLF4J logging
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 BIT Sathyamangalam
+**`DevOps Trainer — Intern`**
+📅 *Apr 2025 – Jul 2025*
+
+- Trained students in **Linux, Docker, K8s, Terraform, Ansible, Jenkins, AWS**
+- Taught **Prometheus, Grafana, Zabbix, Nagios** for monitoring
+- Delivered **AWS Cloud** workshops to 50+ school students
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📂 [GrowSpace — Cloud Storage App](https://github.com/gowthamselvarajgit/GrowSpace)
+> Mobile-first secure cloud storage & file sharing platform
+
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS_S3%2FEC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+- 🔐 Secure login & encrypted file sharing
+- ☁️ AWS S3-backed upload, delete & sync
+- ⚙️ Full CI/CD with Jenkins + Ansible IaC
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Health Insurance Claim System
+> End-to-end insurance portal · **Team Lead (Team of 5)**
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+- 🧩 Built **Policy Management** module dynamically
+- 🔄 Streamlined enrollment with real-time tracking
+- 🗃️ Designed DB schema with Spring Data JPA
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎂 Serverless Birthday Wishes
+> Fully automated, IAM-secured email system on AWS
+
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![SES](https://img.shields.io/badge/-SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EventBridge](https://img.shields.io/badge/-EventBridge-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+- ⚡ Python Lambda for personalized emails
+- 📅 Daily triggers via EventBridge automation
+- 📊 ETL pipeline with AWS Glue + Athena
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Real-Time E-Commerce Analytics](https://bit.ly/ArchitectureDiagram)
+> Live data streaming, alerts & dashboards
+
+![Kinesis](https://img.shields.io/badge/-Kinesis-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![QuickSight](https://img.shields.io/badge/-QuickSight-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+- 📡 Real-time tracking via Kinesis + Lambda
+- 🔔 Instant alerts through SNS
+- 📈 S3 + Glue powering QuickSight dashboards
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Recognition
+
+| | Achievement | Details |
+|:---:|:---|:---|
+| 🏅 | **VISAI Finalist 2023** | AI-based Turmeric Grading System — National Level |
+| 📜 | **Patent Filed — Scitus Redemptio** | Smart Irrigation System using IoT |
+| 📜 | **Patent Filed — Health Flush** | Smart Urinalysis System |
+| 👨‍🏫 | **Cloud Trainer** | Taught AWS Cloud to 50+ school students (BAVN) |
+| 🎤 | **Event Coordinator** | Organized Ersmernoz-23 & Ersmernoz-24 |
+
+---
+
+## 📜 Certifications
 
 <div align="center">
 
-| Project | Description |
-|--------|------------|
-| 📂 **GrowSpace** | Cloud storage app with AWS + CI/CD |
-| 📊 **E-Commerce Analytics** | Real-time streaming (Kinesis + Lambda) |
-| 🎂 **Serverless Email System** | Automated AWS email pipeline |
-| 🏥 **Insurance System** | Full-stack Spring Boot application |
+[![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+&nbsp;
+[![Java Basic](https://img.shields.io/badge/Java_(Basic)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
+&nbsp;
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://udemy.com)
+
+*GitHub · June 2024 &nbsp;|&nbsp; HackerRank · Sept 2024 &nbsp;|&nbsp; Udemy (Stephane Maarek) · Jan 2024*
 
 </div>
-
----
-
-## 🏆 Achievements
-
-- 🏅 VISAI Finalist 2023  
-- 📜 2 Patents Filed  
-- 👨‍🏫 AWS Trainer (50+ Students)
 
 ---
 
@@ -105,12 +296,20 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gowthamselvarajgit&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamselvarajgit&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/gowthamselvarajgit">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gowthamselvarajgit&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gowthamselvarajgit&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
+</a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=gowthamselvarajgit&theme=tokyonight&hide_border=true"/>
+<a href="https://git.io/streak-stats">
+  <img width="65%" src="https://streak-stats.demolab.com?user=gowthamselvarajgit&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff"/>
+</a>
+
+<br/><br/>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=gowthamselvarajgit&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -119,15 +318,15 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/gowthamselvarajgit/gowthamselvarajgit/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/gowthamselvarajgit/gowthamselvarajgit/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
 
-✨ *"Automate Everything. Build Smart. Scale Fast."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=8B949E&center=true&vCenter=true&width=500&height=40&lines=Automate+Everything.+%E2%9A%99%EF%B8%8F;Simplify+the+Complex.+%F0%9F%A7%A9;Empower+Teams+with+Cloud.+%E2%98%81%EF%B8%8F;Code.+Ship.+Repeat.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f1923,70:162032,100:0d1117&height=120&section=footer"/>
 
-</div>
+</div> 
