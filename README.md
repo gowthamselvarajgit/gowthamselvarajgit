@@ -26,26 +26,51 @@
 
 ## 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```yaml
-👤 Name       : Gowtham S
-💼 Role       : Programmer Analyst Trainee
-🏢 Company    : Cognizant, Kolkata
-🎓 Education  : B.E EIE — BIT (CGPA 7.49)
-📍 Location   : India 🇮🇳
+<div align="left">
 
-🔭 Building   : GrowSpace — Cloud Storage App
-🌱 Learning   : Advanced Kubernetes & System Design
-👨‍🏫 Trained   : 50+ students in AWS & DevOps
-🏆 Patents    : 2 Filed | VISAI Finalist 2023
+### 👋 Hey, I'm Gowtham
 
-📧 Contact    : gowtham26.work@gmail.com
-```
+💼 **Programmer Analyst Trainee** @ Cognizant, Kolkata  
+🎓 **B.E EIE — BIT**  
+📍 Based in **India 🇮🇳**
+
+<br/>
+
+🚀 **Currently Building**  
+➡️ GrowSpace — Cloud Storage App  
+
+🌱 **Currently Learning**  
+➡️ Artificial Intelligence & Machine Learning  
+
+👨‍🏫 **Experience**  
+➡️ Trained 50+ students in AWS & DevOps  
+
+📧 **Reach Me At**  
+➡️ gowtham26.work@gmail.com  
+
+</div>
 
 <br clear="right"/>
 
 ---
+
+<div align="center">
+
+### ⚡ Tech Snapshot
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,java,react,go,linux&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Cloud+Systems+☁️;DevOps+%7C+Automation+%7C+Innovation+⚙️;Always+Learning+Something+New+🚀" />
+
+</div>
 
 ## 🛠️ Tech Arsenal
 
