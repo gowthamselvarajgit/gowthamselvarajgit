@@ -205,21 +205,28 @@ Problem solving & algorithms in Java and Python.
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=gowthamselvarajgit&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gowthamselvarajgit&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gowthamselvarajgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamselvarajgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowthamselvarajgit&theme=tokyonight" height="200" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gowthamselvarajgit&theme=tokyonight" height="200" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowthamselvarajgit&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gowthamselvarajgit&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=gowthamselvarajgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=gowthamselvarajgit&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=gowthamselvarajgit&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
