@@ -1,5 +1,9 @@
 <h1 align="center"> Hi, I'm Gowtham Selvaraj 👋🏻 🧑🏻‍💻</h1>
 <div align="center">
+  
+<a href="https://gowthamselvarajgit.github.io/Gowtham-Portfolio/">
+<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 <img width="100%" src="https://raw.githubusercontent.com/gowthamselvarajgit/gowthamselvarajgit/main/assets/banner.png.png" />
 
