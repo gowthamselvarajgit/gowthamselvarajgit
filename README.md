@@ -17,7 +17,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=☁️+AWS+|+Docker+|+Terraform+|+Kubernetes;🔧+CI/CD+|+Jenkins+|+Ansible+|+DevOps;💻+Spring+Boot+|+React+|+Full+Stack;🤖+Learning+AI+%26+Machine+Learning;🏆+VISAI+Finalist+2023+|+2+Patents+Filed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=☁️+AWS+|+Docker+|+Terraform+|+Kubernetes;🔧+CI/CD+|+Jenkins+|+Ansible+|+DevOps;💻+Spring+Boot+|+React+|+Full+Stack;🤖+Machine+Learning+|+Artificial+Intelligence;🏆+VISAI+Finalist+2023+|+2+Patents+Filed)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gowtham4026/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:gowtham26.work@gmail.com)
