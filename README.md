@@ -31,10 +31,11 @@
 
 ## ⚡ About Me
 
-- 💼 Programmer Analyst Trainee @ Cognizant  
+- 💼 Programmer Analyst Trainee @ Cognizant
+- 💼 Worked as a Devops Intern @ Bannari Amman Institute of Technology
 - 🤖 Learning AI & Machine Learning  
 - ☁️ Cloud | DevOps | Full Stack  
-- 👨‍🏫 Trained 50+ students in AWS  
+- 👨‍🏫 Trained 50+ students in AWS
 
 ---
 
