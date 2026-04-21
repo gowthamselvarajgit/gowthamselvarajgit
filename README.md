@@ -131,7 +131,7 @@ Cloud storage platform with AWS, Docker & CI/CD pipeline.
 
 <td width="33%" valign="top">
 
-### 👥 Employee System  
+### 👥 Employee Management System  
 <sub>🟢 Developer</sub>
 
 Enterprise HR system with payroll & employee record management.
