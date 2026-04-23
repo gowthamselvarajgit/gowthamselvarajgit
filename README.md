@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Gowtham Selvara 👋🏻 🧑🏻‍💻</h1>
+<h1 align="center"> Hi, I'm Gowtham Selvaraj 👋🏻 🧑🏻‍💻</h1>
 <div align="center">
   
 <div align="center">
